@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pedro 
+## Olá! Eu sou o Pedro Gaspar
 - 💻 estudante de Desenvolvimento Web
 - 🌱 Estudante de Tecnico em informatica 
 - 📫 Contate-me: pedro2005gaspar@gmail.com
