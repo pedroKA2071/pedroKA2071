@@ -30,4 +30,4 @@
  	<a href="https://www.twitch.tv/pedroka2077" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/pedroKA2071/pedroKA2071/blob/output/github-contribution-grid-snake.svg)
+
