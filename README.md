@@ -30,6 +30,5 @@
  	<a href="https://www.twitch.tv/pedroka2077" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?pedroKA2071=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
